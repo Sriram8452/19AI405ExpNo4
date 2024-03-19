@@ -30,8 +30,7 @@ ii) else, compute both g and h for successor
           ways, we will discuss three heuristics- 
           Manhattan, Diagonal and Euclidean 
           Heuristics)
-          
-          successor.f = successor.g + successor.h
+successor.f = successor.g + successor.h
 
 iii) if a node with the same position as 
             successor is in the OPEN list which has a 
