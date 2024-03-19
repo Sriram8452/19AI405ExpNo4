@@ -2,7 +2,7 @@
 ### Name: Sriram G
 ### Register Number: 212222230149
 ## AIM:
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 
 ## ALGORITHM:
 A* Search Algorithm
